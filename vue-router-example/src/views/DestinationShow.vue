@@ -1,5 +1,5 @@
 <template>
     <div>
-        <h2>Hello Destinations!</h2>
+        <h2>Hello {{$route.params.id}}</h2>
     </div>
 </template>
