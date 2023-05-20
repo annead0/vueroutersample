@@ -1,5 +1,5 @@
 <template>
     <div>
-        <p>Hello Destinations!</p>
+        <h2>Hello Destinations!</h2>
     </div>
 </template>
